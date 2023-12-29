@@ -13,7 +13,7 @@ import {
 
 function App() {
   return (
-    <div class="bg-slate-100 dark:bg-[#0a192f]">
+    <div class="bg-slate-100 ">
       <NavBar />
       <Side />
       <AboutMe />

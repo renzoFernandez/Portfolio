@@ -16,13 +16,13 @@ const Work = () => {
           </p>
         </div>
 
-        <div class="flex bg-slate-300 dark:bg-[#112240] bg-cover px-8 py-12 md:bg-transparent dark:md:bg-transparent md:p-0 mb-12 aos-init aos-animate">
+        <div class="flex bg-slate-300  bg-cover px-8 py-12 md:bg-transparent  md:p-0 mb-12 aos-init aos-animate">
           <div class="flex flex-col md:w-[60%] py-4">
             <h3 class="flex flex-col relative top-[-35px] text-2xl font-semibold">
               Aplicacion de paises
             </h3>
-            <div class="md:p-4 md:w-[130%] rounded md:bg-slate-300 dark:md:bg-[#112240] z-10">
-              <p class=" text-sm text-justify font-medium dark:font-normal">
+            <div class="md:p-4 md:w-[130%] rounded md:bg-slate-300  z-10">
+              <p class=" text-sm text-justify font-medium ">
                 Una SPA que consume datos de una API externa y permite la
                 visualizacion de informacion general y detallada todos los
                 paises del mundo.Entre las funcionalidades que tiene esta
@@ -34,7 +34,7 @@ const Work = () => {
               </p>
             </div>
             <div class="flex md:w-[130%] z-10 pt-4">
-              <ul class="flex flex-wrap text-sm font-medium text-[#4a6087] dark:text-slate-400">
+              <ul class="flex flex-wrap text-sm font-medium text-[#4a6087] ">
                 <li class="pr-4"> React</li>
                 <li class="pr-4"> Redux</li>
                 <li class="pr-4"> Node js</li>
@@ -46,7 +46,7 @@ const Work = () => {
             </div>
             <div class="flex relative bottom-[-20px]">
               <a
-                class="flex justify-between items-center dark:text-white pr-4 hover:text-pink-600 dark:hover:text-pink-600 duration-300 keychainify-checked"
+                class="flex justify-between items-center  pr-4 hover:text-pink-600  duration-300 keychainify-checked"
                 href="https://github.com/renzoFernandez/PI-Contries-App/tree/main"
                 target="_blank"
                 rel="noreferrer"
@@ -65,13 +65,13 @@ const Work = () => {
           </a>
         </div>
 
-        <div class="flex bg-slate-300 dark:bg-[#112240] bg-cover px-8 py-12 md:bg-transparent dark:md:bg-transparent md:p-0 mb-12 aos-init aos-animate">
+        <div class="flex bg-slate-300  bg-cover px-8 py-12 md:bg-transparent  md:p-0 mb-12 aos-init aos-animate">
           <div class="flex flex-col md:w-[60%] py-4">
             <h3 class="flex flex-col relative top-[-35px] text-2xl font-semibold">
               Aplicacion de Notas
             </h3>
-            <div class="md:p-4 md:w-[130%] rounded md:bg-slate-300 dark:md:bg-[#112240] z-10">
-              <p class=" text-sm text-justify font-medium dark:font-normal">
+            <div class="md:p-4 md:w-[130%] rounded md:bg-slate-300  z-10">
+              <p class=" text-sm text-justify font-medium ">
                 Una SPA que te permite crear pequeños posteos los cuales cuentan
                 con un titulo , una descripcion y una imagen opcional.Los mismos
                 se pueden editar o eliminar.Para acceder a tus posteos necesitas
@@ -79,7 +79,7 @@ const Work = () => {
               </p>
             </div>
             <div class="flex md:w-[130%] z-10 pt-4">
-              <ul class="flex flex-wrap text-sm font-medium text-[#4a6087] dark:text-slate-400">
+              <ul class="flex flex-wrap text-sm font-medium text-[#4a6087] ">
                 <li class="pr-4"> React</li>
                 <li class="pr-4"> Node js</li>
                 <li class="pr-4"> Express</li>
@@ -91,7 +91,7 @@ const Work = () => {
             </div>
             <div class="flex relative bottom-[-20px]">
               <a
-                class="flex justify-between items-center dark:text-white pr-4 hover:text-pink-600 dark:hover:text-pink-600 duration-300 keychainify-checked"
+                class="flex justify-between items-center  pr-4 hover:text-pink-600  duration-300 keychainify-checked"
                 href="https://github.com/renzoFernandez/To-Do-app/tree/main"
                 target="_blank"
                 rel="noreferrer"
@@ -109,13 +109,13 @@ const Work = () => {
             <div class="bg md:flex w-full h-44 my-auto z-0 bg-cover bg-posts"></div>
           </a>
         </div>
-        <div class="flex bg-slate-300 dark:bg-[#112240] bg-cover px-8 py-12 md:bg-transparent dark:md:bg-transparent md:p-0 mb-12 aos-init aos-animate">
+        <div class="flex bg-slate-300  bg-cover px-8 py-12 md:bg-transparent  md:p-0 mb-12 aos-init aos-animate">
           <div class="flex flex-col md:w-[60%] py-4">
             <h3 class="flex flex-col relative top-[-35px] text-2xl font-semibold">
               Mix2Pizza - E-commerce de Pizzas
             </h3>
-            <div class="md:p-4 md:w-[130%] rounded md:bg-slate-300 dark:md:bg-[#112240] z-10">
-              <p class=" text-sm text-justify font-medium dark:font-normal">
+            <div class="md:p-4 md:w-[130%] rounded md:bg-slate-300  z-10">
+              <p class=" text-sm text-justify font-medium ">
                 Un E-commerce de pizzas el cual permite ver y comprar una gran
                 variedad de pizzas, permitiendo el comprar pizzas ya cargadas o
                 crear tu propia pizza. La aplicacion cuenta con login propio
@@ -125,7 +125,7 @@ const Work = () => {
               </p>
             </div>
             <div class="flex md:w-[130%] z-10 pt-4">
-              <ul class="flex flex-wrap text-sm font-medium text-[#4a6087] dark:text-slate-400">
+              <ul class="flex flex-wrap text-sm font-medium text-[#4a6087] ">
                 <li class="pr-4"> React</li>
                 <li class="pr-4"> Redux</li>
                 <li class="pr-4"> Node js</li>
@@ -137,7 +137,7 @@ const Work = () => {
             </div>
             <div class="flex relative bottom-[-20px]">
               <a
-                class="flex justify-between items-center dark:text-white pr-4 hover:text-pink-600 dark:hover:text-pink-600 duration-300 keychainify-checked"
+                class="flex justify-between items-center  pr-4 hover:text-pink-600  duration-300 keychainify-checked"
                 href="https://github.com/Aixmar/GRUPO-3-FRONT"
                 target="_blank"
                 rel="noreferrer"
@@ -145,7 +145,7 @@ const Work = () => {
                 <FaGithub />
               </a>
               <a
-                class="flex justify-between items-center dark:text-white pr-4 hover:text-pink-600 dark:hover:text-pink-600 duration-300 keychainify-checked"
+                class="flex justify-between items-center  pr-4 hover:text-pink-600  duration-300 keychainify-checked"
                 href="https://github.com/Aixmar/GRUPO-3-BACK"
                 target="_blank"
                 rel="noreferrer"

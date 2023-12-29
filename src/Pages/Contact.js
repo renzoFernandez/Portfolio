@@ -55,14 +55,14 @@ const Contact = () => {
             type="email"
             name="from_name"
             placeholder="Email"
-            class="bg-slate-300  text-[#0a192f] dark:text-gray-100 placeholder:text-[#41577d]  p-2 mb-4 rounded"
+            class="bg-slate-300  text-[#0a192f]  placeholder:text-[#41577d]  p-2 mb-4 rounded"
           />
 
           <textarea
             name="message"
             placeholder="Mensaje"
             rows="10"
-            class="bg-slate-300  text-[#0a192f] dark:text-gray-100 placeholder:text-[#41577d]  p-2 mb-4 rounded"
+            class="bg-slate-300  text-[#0a192f]  placeholder:text-[#41577d]  p-2 mb-4 rounded"
           />
           <div class="w-full flex justify-center items-center">
             <button
