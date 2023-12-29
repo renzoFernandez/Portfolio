@@ -4,7 +4,7 @@ const Work = () => {
   return (
     <div
       id="Work"
-      class="flex w-full md:w-[90%] min-h-screen my-auto mx-auto text-[#0a192f] dark:text-gray-300 bg-slate-100 dark:bg-[#0a192f]"
+      class="flex w-full md:w-[90%] min-h-screen my-auto mx-auto text-[#0a192f]  bg-slate-100 "
     >
       <div class="max-w-[750px] m-auto p-4 flex flex-col justify-center w-full h-full">
         <div>

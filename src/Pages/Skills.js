@@ -12,7 +12,7 @@ const Skills = () => {
   return (
     <div
       id="Skills"
-      class="w-full md:w-[90%] mx-auto min-h-screen flex bg-slate-100 dark:bg-[#0a192f]"
+      class="w-full md:w-[90%] mx-auto min-h-screen flex bg-slate-100 "
     >
       <div class="max-w-[750px] m-auto px-5 py-4 flex flex-col justify-center h-full w-full">
         <div>

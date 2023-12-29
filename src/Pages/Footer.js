@@ -4,7 +4,7 @@ import { FaFilePdf } from "react-icons/fa6";
 
 const Footer = () => {
   return (
-    <div class="w-full md:w-[90%] mx-auto flex flex-col bg-slate-100 dark:bg-[#0a192f] text-center justify-center items-center">
+    <div class="w-full md:w-[90%] mx-auto flex flex-col bg-slate-100  text-center justify-center items-center">
       <ul class="animate__bounce flex justify-center items-center w-[300px]">
         <li class="w-[30px] h-[50px] mx-auto flex justify-between items-center">
           <a
